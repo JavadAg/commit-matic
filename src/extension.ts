@@ -3,7 +3,7 @@ import { execSync } from "child_process";
 
 export function activate(context: vscode.ExtensionContext) {
   let disposable = vscode.commands.registerCommand(
-    "smart-commit.generateMessage",
+    "commit-matic.generateMessage",
     async () => {
       const apiKey = await getApiKey(context);
 
