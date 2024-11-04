@@ -1,6 +1,6 @@
-# Smart Commit
+# Commit Matic
 
-The **Smart Commit** extension for Visual Studio Code automatically generates concise and meaningful commit messages based on your staged code changes, streamlining your version control process.
+The **Commit Matic** extension for Visual Studio Code automatically generates concise and meaningful commit messages based on your staged code changes, streamlining your version control process.
 
 ## Features
 
@@ -28,7 +28,7 @@ This extension does not currently add any specific VS Code settings through the 
 
 ### 1.0.0
 
-- Initial release of Smart Commit with basic functionality for generating commit messages.
+- Initial release of Commit Matic with basic functionality for generating commit messages.
 
 ---
 
@@ -49,4 +49,4 @@ You can edit this README using Visual Studio Code. Here are some useful keyboard
 - [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 - [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy using Smart Commit!**
+**Enjoy using Commit Matic!**
